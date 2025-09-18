@@ -5,10 +5,12 @@
 
 ### 🧑‍💻 소개 | About Me
 
+- 📂 ENON Teams. CEO, 개발자로 소속돼었습니다.
 - 🇰🇷 Python을 주로 사용하는 개발자입니다.  
 - 🧪 파이썬으로 주로 디스코드 봇 개발을 하며 이외에도 다른 것들도 만듭니다. 
 - 📚 가끔은 HTML도 사용하며, 새로운 것을 배우는 걸 좋아합니다.
 
+- 📂 I'm ENON Teams. CEO, DEV
 - 🇺🇸 I'm a Python-focused developer from Korea.  
 - 🧪 I mainly develop Discord bots in Python, but I also make other things. 
 - 📚 I also use HTML sometimes, and I like learning new things.
