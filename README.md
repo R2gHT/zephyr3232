@@ -1,26 +1,28 @@
 <h1 align="center">안녕하세요, Hello! 👋</h1>
-<h2 align="center">ZephyR (제퍼) | Python 개발자</h2>
+<h2 align="center">R2gHT (라이트) | ZephyR | Full-Stack Developer</h2>
 
 ---
 
 ### 🧑‍💻 소개 | About Me
 
-- 📂 ENON CEO, 개발자로 소속돼었습니다.
-- 🇰🇷 Python을 주로 사용하는 개발자입니다.  
-- 🧪 파이썬으로 주로 디스코드 봇 개발을 하며 이외에도 다른 것들도 만듭니다. 
-- 📚 가끔은 HTML도 사용하며, 새로운 것을 배우는 걸 좋아합니다.
+- 📂 ENON / prosed. CEO & Developer
+- 🇰🇷 한국에서 활동하는 개발자입니다.  
+- 🧪 Python 기반으로 Discord 봇 및 다양한 프로젝트를 개발합니다.  
+- 🌐 웹 개발(HTML, CSS, JS)과 앱 개발(Swift)도 함께 합니다.  
+- 🚀 새로운 기술 배우는 걸 좋아하는 개발자입니다.
 
-- 📂 I'm ENON CEO, DEV
-- 🇺🇸 I'm a Python-focused developer from Korea.  
-- 🧪 I mainly develop Discord bots in Python, but I also make other things. 
-- 📚 I also use HTML sometimes, and I like learning new things.
+- 📂 CEO & Developer of ENON / prosed.
+- 🇺🇸 Developer based in Korea.  
+- 🧪 I mainly build Discord bots using Python and create various projects.  
+- 🌐 I also work with web (HTML, CSS, JS) and app development (Swift).  
+- 🚀 I love learning new technologies.
 
 ---
 
 ### 📫 연락처 | Contact
 
-- 📧 Email: **zephyrval@outlook.com**  
-- 💬 Discord: **zephyr.32 (712916594606735372)**
+- 📧 Email: enonkr32@naver.com
+- 💬 Discord: r2ght_32(712916594606735372)
 
 ---
 
@@ -29,6 +31,9 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Swift"/>
 </p>
 
 ---
@@ -37,4 +42,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZephyR&show_icons=true&theme=default" alt="ZephyR's GitHub stats" />
-</div>
+</
